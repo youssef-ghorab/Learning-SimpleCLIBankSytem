@@ -1,7 +1,7 @@
 #pragma once
 
 #include "Person.h"
-#include "../../../Strings/Headers/clsString.h"
+#include "../Utility/clsString.h"
 #include "../ExcepAndErr/ExcepAndErr.h"
 
 class Client : public Person<Client>

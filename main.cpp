@@ -1,6 +1,4 @@
 #include <iostream>
-//#include "Headers/UI/MainScreens/MainUI.h"
-//#include "Headers/ProccessObjcts/Bank.h"
 #include "Headers/UI/LoginUI.h"
 #include "Headers/UI/TxtBox.h"
 
