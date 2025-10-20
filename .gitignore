@@ -1,0 +1,22 @@
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.log
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+# VS Code
+.vscode/
+Thumbs.db

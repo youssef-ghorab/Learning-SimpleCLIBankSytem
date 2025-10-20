@@ -1,0 +1,8 @@
+#include "Bank.h"
+#include "Client.h"
+#include "Person.h"
+#include "User.h"
+#include "Permissions.h"
+#include "Loger.h"
+#include "Date.h"
+#include "Currency.h"
